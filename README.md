@@ -1,4 +1,4 @@
- ✨ **Hola! Que bueno tenerte en mi perfil de GitHub** 👋🏼<p>
+ # ✨ **Hola! Que bueno tenerte en mi perfil de GitHub** 👋🏼<br><br>
  
   Mi nombre es **Ludmila** y estoy en un viaje apasionante en el mundo de los Datos!<p>
   Actualmente, me encuentro cursando una tecnicatura en Ciencias de Datos e IA.<p>
