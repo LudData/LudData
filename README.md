@@ -26,7 +26,7 @@
 
 
 
-  **DONDE ME ENCUENTRAS?**
+  ⏩**DONDE ME ENCUENTRAS?**
 
   ➡️**LinkedIn: www.linkedin.com/in/ludmilasotelo**<p>
   ➡️**Email: mairaludsotelo@gmail.com**
