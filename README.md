@@ -1,8 +1,8 @@
  ✨ **Hola! Que bueno tenerte en mi perfil de GitHub** 👋🏼
  
-  Mi nombre es **Ludmila** y estoy en un viaje apasionante en el mundo de los Datos!
-  Actualmente, me encuentro cursando una tecnicatura en Ciencias de Datos e IA.
-  Me motiva el continuo aprendizaje en esta área, los datos me inspiran a contar historias y transformar información en conocimiento que genere impacto. ✨🚀
+  Mi nombre es **Ludmila** y estoy en un viaje apasionante en el mundo de los Datos!<p>
+  Actualmente, me encuentro cursando una tecnicatura en Ciencias de Datos e IA.<p>
+  Me motiva el continuo aprendizaje en esta área, los datos me inspiran a contar historias y transformar información en conocimiento que genere impacto. ✨🚀<p>
 
   
 
