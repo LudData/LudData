@@ -8,27 +8,27 @@
 
   🌿**SOBRE MI**
   
-  🌍 Soy de Argentina- **Tucúman**, Viviendo en la Ciudad de la Furia🌃
+  🌍 Soy de Argentina- **Tucúman**, Viviendo en la Ciudad de la Furia🌃<p>
   🤓 Estudiande de la Carrera de Ciencia de Datos e Inteligencia Artificial✨
-  🌠 Me apasione por este mundo de los datos, descubri que se puede resolver problemas y ayudar a la toma de decisiones estratégicas.
-​​  ➡️ Apasionada por la Tecnologia, la Creatividad y la Innovacion.
-  ➡️ Me encanta el mercado Agro, Amo el campo! pero me interesan tambien proyectos relacionados a Finanzas y Tecnologias!🌱
+  🌠 Me apasione por este mundo de los datos, descubri que se puede resolver problemas y ayudar a la toma de decisiones estratégicas.<p>
+​​  ➡️ Apasionada por la Tecnologia, la Creatividad y la Innovacion.<p>
+  ➡️ Me encanta el mercado Agro, Amo el campo! pero me interesan tambien proyectos relacionados a Finanzas y Tecnologias!🌱<p>
 
   ✨**MIS HABILIDADES**
 
-  💻 Excel- Avanzado
-  💻 Google Sheets- Avanzado
-  💻 Power BI- Intermedio
-  💻 SQL- Basico
-  💻 Canva- Avanzado
-  💻 Power Point- Avanzado
-  💻 Python- Basico
+  💻 Excel- Avanzado<p>
+  💻 Google Sheets- Avanzado<p>
+  💻 Power BI- Intermedio<p>
+  💻 SQL- Basico<p>
+  💻 Canva- Avanzado<p>
+  💻 Power Point- Avanzado<p>
+  💻 Python- Basico<p>
 
 
 
   **DONDE ME ENCUENTRAS?**
 
-  ➡️**LinkedIn: www.linkedin.com/in/ludmilasotelo**
+  ➡️**LinkedIn: www.linkedin.com/in/ludmilasotelo**<p>
   ➡️**Email: mairaludsotelo@gmail.com**
   
   
